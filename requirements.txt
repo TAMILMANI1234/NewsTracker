@@ -1,4 +1,0 @@
-Flask==2.2.2
-Jinja2==3.0.3
-Flask-MySQL==1.0.1 
- 
